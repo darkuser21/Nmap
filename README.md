@@ -77,5 +77,5 @@ SSH/HTTP ports may be vulnerable to brute-force or web-based attacks.
 Unsecured services (e.g., Telnet) can expose sensitive data.
 Services like RDP/SMB can be exploited if unpatched.
  ### 8️⃣ Saved Results
-All Nmap results saved in:
+All Wireshark results saved in:
 Result.txt
